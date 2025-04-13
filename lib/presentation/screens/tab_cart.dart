@@ -1,6 +1,6 @@
 import 'package:bookstore/core/values/app_colors.dart';
 import 'package:bookstore/presentation/screens/checkout_screen.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide CarouselController;
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class CartScreenTab extends StatefulWidget {

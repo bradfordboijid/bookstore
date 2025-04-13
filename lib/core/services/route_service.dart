@@ -6,7 +6,7 @@ import 'package:bookstore/presentation/screens/login_screen.dart';
 import 'package:bookstore/presentation/screens/payment_received.dart';
 import 'package:bookstore/presentation/screens/register_screen.dart';
 import 'package:bookstore/presentation/screens/splash_screen.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide CarouselController;
 
 class RouteService {
   Route<dynamic> generateRoute(RouteSettings settings) {

@@ -1,6 +1,6 @@
 import 'package:bookstore/core/values/app_colors.dart';
 import 'package:bookstore/presentation/screens/payment_received.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide CarouselController;
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
