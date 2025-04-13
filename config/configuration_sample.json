@@ -1,0 +1,19 @@
+{
+    "networkConfig": [
+        {
+            "mode": "dev",
+            "baseUrl": "http://192.168.1.x:xxxx"
+        },
+        {
+            "mode": "production",
+            "baseUrl": "http://192.168.1.x:xxxx",
+            "sentryDsn": "https://xxxx"
+        }
+    ],
+    "developmentConfigs": {
+        "loginDetails": {
+            "email": "sample",
+            "password": "sample"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "networkConfig": [
+        {
+            "mode": "dev",
+            "baseUrl": "https://dev-api.core.mysquegg.com",
+            "mapsUrl": "https://maps.googleapis.com",
+            "sentryDsn": "https://9b1a44bb8ef9a5df4b067168fcafe911@o626659.ingest.us.sentry.io/4506200506040320"
+        },
+        {
+            "mode": "production",
+            "baseUrl": "https://api.core.mysquegg.com",
+            "mapsUrl": "https://maps.googleapis.com",
+            "sentryDsn": "https://041c1d43ecde382410d9e4ff024a68a0@o626659.ingest.sentry.io/4506200430149632"
+        }
+    ],
+    "cacheCredentialsEncryptionKey": "jhP+Gh5oBfpY0uUKoy4cMAkXe09aa+itrZfgjBESZZw=",
+    "cacheCredentialsEncryptionIV": "RxFkRkdAgIJ+vIBJOLKwhg==",
+    "developmentConfigs": {
+        "loginDetails": {
+            "email": "mandip@b.com",
+            "password": "Mteverest!123"
+        },
+        "apiKey": "AIzaSyDmOzpYvbC5Z3QD5FN3Ic_IgUq-lNxkBf0"
+    }
+}
