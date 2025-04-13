@@ -4,7 +4,7 @@ import 'package:bookstore/presentation/data.dart';
 import 'package:bookstore/presentation/screens/login_screen.dart';
 import 'package:bookstore/presentation/screens/moviescreen.dart';
 import 'package:bookstore/presentation/screens/register_screen.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' hide CarouselController;
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class LandingScreen extends StatefulWidget {
