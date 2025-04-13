@@ -1,5 +1,5 @@
 import 'package:bookstore/presentation/screens/landing_screen.dart';
-import 'package:flutter/material.dart' hide CarouselController;
+import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

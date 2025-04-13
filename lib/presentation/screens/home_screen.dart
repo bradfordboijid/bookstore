@@ -3,7 +3,7 @@ import 'package:bookstore/presentation/screens/tab_cart.dart';
 import 'package:bookstore/presentation/screens/tab_categories.dart';
 import 'package:bookstore/presentation/screens/tab_home.dart';
 import 'package:bookstore/presentation/screens/tab_profile.dart';
-import 'package:flutter/material.dart' hide CarouselController;
+import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class HomeScreen extends StatefulWidget {

@@ -2,7 +2,7 @@ import 'package:bookstore/core/values/app_colors.dart';
 import 'package:bookstore/presentation/data.dart';
 import 'package:bookstore/presentation/screens/book_info_screen.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:flutter/material.dart' hide CarouselController;
+import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class HomeScreenTab extends StatefulWidget {
